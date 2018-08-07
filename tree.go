@@ -1,5 +1,5 @@
-// Go's concurrency primitives make it easy to express concurrent concepts,
-// such as this binary tree comparison.
+// Go's concurrency primitives make it easy to express concurrent concepts, such
+// as this binary tree comparison.
 //
 // Trees may be of different shapes, but have the same contents. For example:
 //
